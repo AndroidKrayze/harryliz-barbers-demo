@@ -115,10 +115,6 @@ export const GALLERY = [
     alt: "Harryliz Barbers shopfront on Lower Road, London SE16",
   },
   {
-    src: asset("/images/interior.jpg"),
-    alt: "Interior chairs, mirrors, and grooming tools at Harryliz Barbers",
-  },
-  {
     src: asset("/images/lounge.jpg"),
     alt: "Waiting lounge with sofa and patterned wall at Harryliz Barbers",
   },

@@ -23,8 +23,8 @@ export function About() {
         <Reveal delay={0.1}>
           <div className="relative overflow-hidden rounded-sm">
             <img
-              src={asset("/images/interior.jpg")}
-              alt="Interior of Harryliz Barbers with chairs and mirrors"
+              src={asset("/images/lounge.jpg")}
+              alt="Waiting lounge at Harryliz Barbers on Lower Road"
               className="aspect-[4/5] w-full object-cover md:aspect-[5/6]"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-ink/40 via-transparent to-lilac/10" />
