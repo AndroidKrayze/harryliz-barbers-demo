@@ -70,8 +70,7 @@ export function Footer() {
         </div>
       </div>
       <p className="mx-auto mt-8 max-w-6xl px-5 text-xs text-sand/40 md:px-8">
-        Marketing demo for Harryliz Barbers. Booking is handled exclusively via
-        Fresha. Suggested GitHub Pages slug: harryliz-barbers-demo.
+        Suggested domains: harrylizarse16.co.uk · harrylizardbers.co.uk · lowerroadbarbers.co.uk
       </p>
     </footer>
   );
